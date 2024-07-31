@@ -1,4 +1,4 @@
-var character = "levy";
+var character = 'levy';
 console.log(character);
 var inputs = document.querySelectorAll('input');
 console.log(inputs);
