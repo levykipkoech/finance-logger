@@ -1,5 +1,4 @@
-"use strict";
-class invoice {
+export class Invoice {
     constructor(client, details, amount) {
         this.client = client;
         this.details = details;
